@@ -12,6 +12,13 @@ and after that aleernate turning right and left (5 second each ) for 60 seconds 
 -------------------
 Picture of tinker cad and wires connection
 <img width="1184" height="536" alt="image" src="https://github.com/user-attachments/assets/35f57786-596e-4ee3-8660-6aaca05026b3" />
+--------------------------
+For motor driver connection with ardunio 
+
+<img width="595" height="363" alt="image" src="https://github.com/user-attachments/assets/d9c3ee73-c982-425c-b46e-35ee0f3cabcc" />
+
+<img width="591" height="359" alt="image" src="https://github.com/user-attachments/assets/63989503-4cd5-4410-9079-9557dde3213d" />
+
 
 ------------------------------
 vedio of running the motor
